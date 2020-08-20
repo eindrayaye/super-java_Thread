@@ -2,7 +2,7 @@
 
 Life Cycle of Thread
 
-	1)NEw Thread
+	1)New Thread
   
 		Thread t1=new Thread();
     
